@@ -1,0 +1,16 @@
+{
+  "name": "dnslookup",
+  "version": "1.0.0",
+  "description": "whois lookup utility",
+  "main": "whois.js",
+  "dependencies": {
+    "parse-whois": "^1.0.0",
+    "whois": "^2.5.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
