@@ -1,4 +1,4 @@
-# RepairRabbit Purchase System
+# Whois Lookup Utility
 
 ## Prerequisites
 * [Node.js >= 8.10.0/NPM](http://nodejs.org/download/)
@@ -8,7 +8,7 @@
 Clone project
 
 ```
-git clone git@gitlab.com:RepairRabbit/purchase.git
+http://192.168.1.5:10080/malik_lakhani/whoisLookup.git
 ```
 
 
